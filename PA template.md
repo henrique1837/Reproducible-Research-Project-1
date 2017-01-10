@@ -196,4 +196,6 @@ xyplot(TStepsperday3$steps ~ TStepsperday3$interval|TStepsperday3$dif,
 
 ![plot of chunk unnamed-chunk-17](figure/unnamed-chunk-17-1.png)
 
+####Create .md file for github
 knit(input="PA1_template.Rmd", output = "PA template.md")
+
